@@ -8,7 +8,6 @@
 - only ones that survive after each wave of plague can mate
     - advance gen: kill and then mate
 - randomize mating, 0-3 children per pair (0 should have very low chance)
-    - if odd number, RIP to the virgin
 
 predictions:
 - survival chance too low -> extinct, too high -> no one ever dies
